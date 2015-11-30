@@ -10,7 +10,7 @@ import com.restfb.types.User;
 
 public class FacebookLikesAggregator {
     // have to generate again at https://developers.facebook.com/tools/explorer/ while demo
-    private static final String ACCESS_TOKEN = "CAACEdEose0cBAEbr9jFYxZBnILndRcLZBZCyNRRsbc4ltCyHEZB9beehdyvYxVGeUK2l3PvOUQUMVgzoHldbhieLYE6ttxXzJ0d5zBNSnlxLcJPyT3pZCXYmY0JrHAzeKsxOVC2EWx9EPAlaOw6V8SsgBKC8wZAsXMve0jogkiAXZBBt8lD2HrfrGnERY4gsBZBWv3IFPoEdKTPPVXHRYaoj";
+    private static final String ACCESS_TOKEN = "CAACEdEose0cBAhybhhyguijuyyhkjoiuynjiuhybiuhhytbihyZB9beehdyvYxVGeUK2l3PvOUQUMVgzoHldbhieLYE6ttxXzJ0d5zBNSnlxLcJPyT3pZCXYmY0JrHAzeKsxOVC2EWx9EPAlaOw6V8SsgBKC8wZAsXMve0jogkiAXZBBt8lD2HrfrGnERY4gsBZBWv3IFPoEdKTPPVXHRYaoj";
     private static final String FIELD_SEPARATOR = ",";
     private static final String FILE_NAME = "facebook-file.tsv";
 
